@@ -1,0 +1,70 @@
+ID,value
+Groups,
+Groups.group1,
+Groups.group1.art,20
+Groups.group1.HermioneGranger,1
+Groups.group1.MinervaMcGonagall,1
+Groups.group1.BathildaBagshot ,1
+Groups.group1.CormacMcLaggen,1
+Groups.group1.AntiochPeverell,1
+Groups.group1.KatieBell,1
+Groups.group2.film,20
+Groups.group2.PeterPettigrew ,2
+Groups.group2.NevilleLongbottom,2
+Groups.group2.AlbusDumbledore,2
+Groups.group2.GodricGryffindor ,2
+Groups.group2.LudoBagman ,2
+Groups.group2.HarryPotter ,2
+Groups.group3.gaming,20
+Groups.group3.PhineasNigellus Black,3
+Groups.group3.AmeliaBones ,3
+Groups.group3.SusanBones ,3
+Groups.group3.CharityBurbage,3
+Groups.group3.MarcusFlint,3
+Groups.group3.SeamusFinnigan,3
+Groups.group4.gaming2,20
+Groups.group4.IrmaPince,4
+Groups.group4.ViktorKrum,4
+Groups.group4.XenophiliusLovegood ,4
+Groups.group4.FiliusFlitwick ,4
+Groups.group4.AmycusCarrow,4
+Groups.group4.Bellatrix Lestrange,4
+Groups.group5.gaming3,20
+Groups.group5.DracoMalfoy,5
+Groups.group5.HelgaHufflepuff,5
+Groups.group5.HannahAbbott ,5
+Groups.group5.SiriusBlack,5
+Groups.group5.CorneliusFudge,5
+Groups.group5.PansyParkinson,5
+Groups.group6.music,20
+Groups.group6.AlectoCarrow,6
+Groups.group6.PenelopeClearwater ,6
+Groups.group6.ChoChang ,6
+Groups.group6.RolandaHooch ,6
+Groups.group6.ErnieMacmillan,6
+Groups.group6.MillicentBulstrode,6
+Groups.group7.sport,20
+Groups.group7.GrahamMontague,7
+Groups.group7.ReginaldCattermole,7
+Groups.group7.SturgisPodmore ,7
+Groups.group7.CuthbertBinns,7
+Groups.group7.GellertGrindelwald ,7
+Groups.group7.ColinCreevey,7
+Groups.group8.travel,20
+Groups.group8.TerryBoot,8
+Groups.group8.LavenderBrown,8
+Groups.group8.MaryCattermole ,8
+Groups.group8.VincentCrabbe,8
+Groups.group8.AmosDiggory,8
+Groups.group9.programming,20
+Groups.group9.TheodoreNott,9
+Groups.group9.MichaelCorner,9
+Groups.group9.RubeusHagrid ,9
+Groups.group9.PoppyPomfrey ,9
+Groups.group9.GarrickOllivander ,9
+Groups.group10.mix,20
+Groups.group10.FleurDelacour ,10
+Groups.group10.FrankBryce,10
+Groups.group10.RemusLupin,10
+Groups.group10.SilvanusKettleburn ,10
+Groups.group10.IgorKarkaroff ,10
